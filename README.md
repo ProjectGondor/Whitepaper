@@ -12,7 +12,10 @@ Incentivization is similar to how we incentivize becoming an author in standard 
 ## Examples
 
 Choose your own Adventure: Give credit to the creator of these books.
-Research Papers
+# Research Papers
+
+The Theory of Special Relativity was originally proposed on September 26, 1905 in a paper titled "On the Electrodynamics of Moving Bodies" by Albert Einstein. The paper had two parts, Kinematical and Electrodynamical, which each had five subsections. The paper took several years of peer review before it became apperant of how fundamentally important the postulates within would be for physics. Many physics papers of today rely heavily on the postulates formulated by Einstein. Originally published physically in 1905 the paper is a good example of the benefits of utilizing block tree publishing on research papers. The conversion of a Paper on Special Relativity would start with the title block with a synopsis of the two postulates and two forward linking branches: Kinematical Part and Electrodynamical Part. Both branches would make up a link list of five blocks with each block being a subsection of the paper. The nature of the second branch relies heavily on the information presented in the first branch, so the last block of the first branch can also link to the first block of the second branch. Those ten blocks constitutes the entirety of the Theory of Special Relativity and as other Physicists peer review the paper they purchase each block. In reality the purchase of Einstein's paper was paid to the journal it was printed in, but with block tree publishing and cryptocurrency the purchase of blocks go directly to Einstein. Anyone, to this day, that purchases the blocks would have directly supporting Einstein as a scientist. However, this is not the only means block tree publishing would have benefited the paper. Every peer reviewer would have the option to fork at any of the blocks in order to create their own branch illustrating the findings of their own experimentation. Imagine what a block tree publication would look like after a century of peer review and scientific advancements on one of the most prolific scientific discoveries in physics.
+
 500 years
 Lectures
 Fanfiction authors can benefit from the fiction they love
