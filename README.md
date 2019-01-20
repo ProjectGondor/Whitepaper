@@ -12,8 +12,14 @@ Incentivization is similar to how we incentivize becoming an author in standard 
 ## Examples
 
 # Novels
-Choose your own Adventure: Give credit to the creator of these books.
-Fanfiction authors can benefit from the fiction they love
+
+*Choose Your Own Adventure® began in 1979 as a series of book first published by Bantam Books in order to capture a younger reading audience. The series was a direct decendant of the popular Role Play Games of the 1970's being an adventure in novel form. The CYOA books gave the reader a choice on each page with instructions to "turn to page #" in order to read the concequences of the reader's choices. Some of these pages would end the story and others would lead to more choices. The choice based adventure lends itself very well to block tree publishing. The major core concepts of both align with every page of the CYOA series being a block that allows readers to choose which page they proceed to next. Each choice of the Adventure is a branch within block tree publishing. 
+
+Several advantages exist to block tree publishing over the CYOA series. First, it is easy to choose the "wrong path" in CYOA where every choice you make seems to lead to an abrupt end. Block tree publishing doesn't have this limitation as branches can point to another branch. Second, CYOA books were limited to the print space of a physical page, limited space on the page also limits the number of choices presented, and physical book length meant a percentage of those pages were taken up by endings that may have only been a paragraph in length leaving a lot of empty space on that page. The author is presented with decisions to either write a full page of story limiting choices, writing lots of choices with minimal story, or writing an ending that wastes space. None of these are an issue in block tree publishing since there are no physical limitations to electronic pubishing. Of course converting CYOA to any form of electronic publishing removes a majority of these issues. However, The ability for readers to be converted into authors and branch their own choices is the real advantage to block tree publishing.
+
+[Choose Your Own Adventure®](https://www.cyoa.com/)
+
+*Fanfiction authors can benefit from the fiction they love
 
 # Research Papers
 
@@ -33,6 +39,7 @@ Richard Feynman wrote one of the greatest set of lectures on Physics to an exten
 
 Education is the key to progress and block tree publishing offers an incentive to progression while utilizing the development style of the scientific method. Eventually, teachers will stop purchasing the ineffective lectures and a form of peer review will have taken place. Only the best lectures would evolve and progress education further.
 
+[The Feynam Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 
 ## Problems Solved
 
