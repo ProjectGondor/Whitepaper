@@ -11,7 +11,10 @@ Incentivization is similar to how we incentivize becoming an author in standard 
 
 ## Examples
 
+# Novels
 Choose your own Adventure: Give credit to the creator of these books.
+Fanfiction authors can benefit from the fiction they love
+
 # Research Papers
 
 The Theory of Special Relativity was originally proposed on September 26, 1905 in a paper titled "On the Electrodynamics of Moving Bodies" by Albert Einstein. The paper had two parts, Kinematical and Electrodynamical, which each had five subsections. The paper took several years of peer review before it became apperant of how fundamentally important the postulates within would be for physics. Many physics papers of today rely heavily on the postulates formulated by Einstein. Originally published physically in 1905 the paper is a good example of the benefits of utilizing block tree publishing on research papers. The conversion of a Paper on Special Relativity would start with the title block with a synopsis of the two postulates and two forward linking branches: Kinematical Part and Electrodynamical Part. Both branches would make up a link list of five blocks with each block being a subsection of the paper. The nature of the second branch relies heavily on the information presented in the first branch, so the last block of the first branch can also link to the first block of the second branch. Those ten blocks constitutes the entirety of the Theory of Special Relativity and as other Physicists peer review the paper they purchase each block. In reality the purchase of Einstein's paper was paid to the journal it was printed in, but with block tree publishing and cryptocurrency the purchase of blocks go directly to Einstein. Anyone, to this day, that purchases the blocks would have directly supporting Einstein as a scientist. However, this is not the only means block tree publishing would have benefited the paper. Every peer reviewer would have the option to fork at any of the blocks in order to create their own branch illustrating the findings of their own experimentation. Imagine what a block tree publication would look like after a century of peer review and scientific advancements on one of the most prolific scientific discoveries in physics.
@@ -20,9 +23,16 @@ The Theory of Special Relativity was originally proposed on September 26, 1905 i
 
 Nicola Tesla was one of the greatest electrical engineers to have lived. He understood electricity so well that he hardly ever experimented in a formal scientific method primarily relying on his own notes and journals. Tesla's most prominant invention was Alternating Current. The AC generator was presented to Thomas Edison by Tesla and was promptly told by Edison "It would kill everyone". Today we live off of AC power and consider Thomas Edison the greatest American inventor that ever lived. Why? Because he built an electric company that eventually brought AC power to the entire United States. Tesla died poor and his journals have been lost ever since. If Tesla had written his journals by utilizing block tree publishing they would have been immutable and Edison's claims refuted at publication. The journals would not have been lost because they would have been decentralized on the network for any of us to purchase per block.
 
-500 years
-Lectures
-Fanfiction authors can benefit from the fiction they love
+# Geneology
+
+Geneology is a representation of genetic and family history typically in the form of a family tree. The way geneology charts are organized is similar to a block tree published structure. An entire family can be represented within the block tree publishing on the blockchain. Branches in this regard would be identical to a branch in a family tree. Family tokens can be generated for membership to the family tree creating private geneology charts and levels of administration specific to different branches. Furthering the idea of publication, each individual within the family is the represented block and can be given complete control of their block. These personal blocks can then be utilized for journal entries, lessons from life, or any other message the individual would like to accessible to future generations.
+
+# Lectures
+
+Richard Feynman wrote one of the greatest set of lectures on Physics to an extent that several classes, to this day, still use his lectures. These lectures are primarily based on breaking the basics down into their most easily understood parts and slowly building students capabilities up into more difficult concepts. Some students absolutely love their physics classes because the lectures work with their method of thinking. Other student despise physics because they have a different method of understanding. This is just the nature of human thought and the difference in how we interact with the world. While Feynam's lecture do a good job of including as many people as possible they still alienate others and this may require a differnt method of explaination. Block tree publishing would allow a professionals like Feynman to publish his lectures in sections for other teachers to use in their lectures. Feynman would have a simple monetization stream beyond the confines of the University through teachers purchasing the sections, or blocks, they need. Alienation that may occur in the classroom can be identified as a seperate method of understanding. A new lecture based on teaching the alienated can be developed by the teacher. This new lecture can branch directly off of the subject it pertains to and any teachers can use this lecture in future teachings.
+
+Education is the key to progress and block tree publishing offers an incentive to progression while utilizing the development style of the scientific method. Eventually, teachers will stop purchasing the ineffective lectures and a form of peer review will have taken place. Only the best lectures would evolve and progress education further.
+
 
 ## Problems Solved
 
