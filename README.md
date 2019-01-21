@@ -1,6 +1,6 @@
 # Introduction
 
-# Concept
+# Block Tree Publishing as a Concept
 Incentiviced community publishing utilizes cryptocurrency and blockchain concepts to instigate author collaboration in single published works. The primary function is the block tree design concept that uses three basic ideas to link multiple "blocks" into a single subject that can be branched into multiple narratives within the same subject. The three pieces of the Block Tree Publishing concept are blocks, branching, and incentivization. Each block is similar to a page or chapter in a story with many blocks linked together to form an entire book. In your typical physical book page 1 leads to page 2 and eventually to page 500, the end. With branching the link between pages is not as linear. Similar to how development models utilizing git can fork the main branch at any point to create a testing branch, the narrative of a subject can branch off from the end of page 1 linking directly to page 25. The incentive relies on cryptocurrency standards and implementation allowing for blocks to be sold and owned. All three of these functions combined allow for multiple written works to naturally grow with an incentive that builds off of collaborating with authors that have come before.
 
 Standard publishing models already have a firm understanding on how to break up written word into easily managable pieces. A block in the publishing context is no different then these concepts within standard publishing. A block can be anything within the written work that may cause a divergence within the narrative of that work. Examples of blocks might be as simple as a paragraph within a fictional story or as complex as an entire section of a research paper. How blocks are defined is completely within the author's purview. The major deciding factor of block size is the economic incentive of selling these blocks. Each reader will purchase ownership of these blocks. If the reader enjoys the narrative enough to keep reading, they will eventually purchase all the blocks along that branch; This is effectively the same as purchasing an entire book. The economics of each individual work would rely on the block size for that work. The author could decide a block is each page of a 500 page novel and you've created a pay per page business model. Simply writing an entire chapter into a single block creates a pay per chapter model. This may create confusion surrounding actual costs of the book which makes the real metric word count. Again, this is something standard publishing models have used as their base metric for years. Whether 100 words exist within a block or 10,000 is irrelevant as long as the block concisely convey the author's intent.
@@ -9,7 +9,7 @@ Each block, no matter the word count, is linked to another block. These links ar
 
 Incentivization is similar to how we incentivize becoming an author in standard publishing. The author is paid for the work and the more people that purchase the better they are paid. By writing a branch in the smallest unit of block measurement a reader is willing to purchase, it maximizes the profit while simultaneously incentivizing other authors to branch off of the work. Imitation is the best form of flattery and in this case a reader's desire to purchase an imitating author's work must first lead down the branch of the predecessor's work. Both authors involved are paid for the appropriate amount of effort within a subject. The positive enforcement on imitation is an incentive to remove copyright from the publishing model. Not only should all blocks be publically available in a decentralized system, allowing for recognition of copyright infringements at attempted publication, but those with a proclivity to infringe upon an authors copyright are incentivized to branch their own work within the same subject, or universe, of the previous author. A pay per block model creates a theoretical free market within the subject, further incentivizing the readers to condemn branches obfuscating the infringement efforts of an author's copyright by simply not reading or purchasing the offending branch. The economics of the market can correct itself against the infringements. The author's best bet becomes engaging with their fanbase to ensure free market mechanics persist on their branches.
 
-# Examples
+# Block Tree Publishing Examples in Modern Publication
 
 ### Literature
 
@@ -45,7 +45,17 @@ Education is the key to progress and block tree publishing offers an incentive t
 
 [The Feynam Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 
-# Problems Solved
+# Problems and Solutions
+
+### Physical Books
+
+Producing a physical bound book is expensive. As a publisher you have to find an author and pay them an up front cost to write the book. The author may finish the book, but more often than not they miss deadlines and sometimes fail to complete the assignment at all. The publisher has to absorb those costs and move on. Once the author completes their assignment the publisher pays an editor to cut the book into what may sell on the market. The book moves through several hands at this point until a finished product is agreed upon. That final draft is sent to a printing company and an entirely new process starts. Issues can arise at any point within this process just adding to the already costly project. The hope of the publisher is that the book sells a large number of copies which not only pays back the debt of the existing project, but all the other projects that have failed prior. With all of this debt tied up in whether or not the book sells you would think the publisher would invest in marketing. However, most publishers push the marketing onto the author. Understanding the process is important to the reasoning behind why authors feel they are paid so little. Authors lucky enough to have books that sell well often feel the initial compensation for writing the project pales in comparison to what the publisher makes. Now consider how an author feels if they write a top selling book.
+
+Block tree publishing solves this issue by giving control of publishing directly to the author. The individual that writes the book is the initial source and control of what people get involved with the publication. The control of whether or not editors are needed, how many words per block, and how much a block costs. If that control leads to a massive success, the author is paid by every reader of each block and they can opt to use the profits to purchase printing and marketing in a tradition market.
+
+
+
+### E-books
 
 ### Scientific Journals
 
@@ -53,6 +63,9 @@ A major factor of the scientific method is the peer review stage. During this st
 
 A couple decades ago this system was a necessary requirement of the scientific process. Researchers needed a central authority to publicize the large amount of research papers that exist within the community. Since the internet has taken ahold of society there has been less necessity for the centralize publication. Now blockchain, cryptocurrency, and block tree publishing can create a truly decentralized scientific journal that pay the researchers directly per block. Each section of a research paper can be broken up into blocks creating points for other researchers to branch off of. Every branch can be a peer review of the main research paper. All researchers have to do is pay for the blocks they need for their research, perform their experiments, and author their own branch. All the subjective research is now located in one place with the appropriate researchers getting paid to publish their work.
 
+### Websites
+
+### Social Media
 
 # Technical
 ### Link Lists (Branching)
