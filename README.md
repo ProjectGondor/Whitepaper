@@ -47,9 +47,23 @@ Education is the key to progress and block tree publishing offers an incentive t
 
 # Problems Solved
 
-Scientific Journals as a problem
+### Scientific Journals
 
- However, this is not been the case in several modern means of publishing. Block tree completely removes the need for a corporate publishing entity and shifts the it towards a choice of the author. Pseudo self publishing concepts have sprung up since the internet's inception, but these cases still rely on a single central agency of authority taking a large percentage of the price.
+A major factor of the scientific method is the peer review stage. During this stage a research paper is tested by a different team of scientists in order to see if the results of an experiment change or stay the same. Every experiment, whether original or peer review, is accompanied by a research paper that explains the details. All of these papers are published by a handful of scientific journals that do not pay the authors of these papers. The researchers are required to publish in these journals if they want the scientific community to pay attention to their experiments. However, researchers do have to pay subscriptions to these journals in order to get the latest papers. Without the latest research papers these teams stagnate and peer reviews become less frequent. The community suffers from the problem of having scientific journals monopolizing the research.
+
+A couple decades ago this system was a necessary requirement of the scientific process. Researchers needed a central authority to publicize the large amount of research papers that exist within the community. Since the internet has taken ahold of society there has been less necessity for the centralize publication. Now blockchain, cryptocurrency, and block tree publishing can create a truly decentralized scientific journal that pay the researchers directly per block. Each section of a research paper can be broken up into blocks creating points for other researchers to branch off of. Every branch can be a peer review of the main research paper. All researchers have to do is pay for the blocks they need for their research, perform their experiments, and author their own branch. All the subjective research is now located in one place with the appropriate researchers getting paid to publish their work.
 
 
+# Technical
+### Link Lists (Branching)
+### ERC standards for ownership
+### Encrypted Secure Storage method for decentralization (blocks)
+### How to use Tokens (Membership/Family coin, Vote Tokens, Stable Coin Token for purchases)
+### Copyright enforcement
 # Roadmap
+### Develop Website
+### Publish Whitepaper (pseudo block tree publish and test environment)
+### Page Ownership Contract
+### Publishing Authors Contract
+### IPFS Storage
+### Copy public Domain works (Procedes to Project Gutenberg)
